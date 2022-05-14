@@ -1,4 +1,5 @@
 .logo_place_footer {
   background-image: url(../../../images/logo_place_footer.svg);
-  align-self: flex-start;
+  -ms-flex-item-align: start;
+      align-self: flex-start;
 }

@@ -1,4 +1,6 @@
 .video__iframes {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
   position: relative;
   bottom: -50px;

@@ -2,7 +2,9 @@
   margin: 0 0 0 64px;
   max-width: 730px;
   line-height: 96px;
-  align-self: center;
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
   z-index: 2;
   font-size: 102px;
   font-weight: bold;

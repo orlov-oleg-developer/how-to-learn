@@ -5,6 +5,8 @@
   line-height: 42px;
   font-size: 30px;
   font-weight: normal;
+  -webkit-transition: opacity 0.25s ease-in-out;
+  -o-transition: opacity 0.25s ease-in-out;
   transition: opacity 0.25s ease-in-out;
 }
 

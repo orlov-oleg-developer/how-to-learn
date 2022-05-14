@@ -1,5 +1,7 @@
 .header {
   height: 100vh;
+  display: -webkit-box;
+	display: -ms-flexbox;
 	display: flex;
   min-height: 600px;
   max-height: 756px;
