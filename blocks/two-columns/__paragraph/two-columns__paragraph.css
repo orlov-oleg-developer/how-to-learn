@@ -5,6 +5,6 @@
   font-weight: normal;
 }
 
-.two-columns__paragraph:nth-child(3) {
+.two-columns__paragraph:last-of-type {
   margin-bottom: 0;
 }
