@@ -2,6 +2,8 @@
   min-height: 890px;
   margin: auto;
   padding-top: 100px;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
